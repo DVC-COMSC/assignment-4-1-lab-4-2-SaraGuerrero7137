@@ -1,7 +1,7 @@
 
 //?  [Problem Definition]
 //*        A software company sells a package that retails for $99. Quantity
-//discounts are given
+// discounts are given
 //*        according to the following table.
 //*                Quantity                 Discount Percent
 //*                10 - 19                        20%
